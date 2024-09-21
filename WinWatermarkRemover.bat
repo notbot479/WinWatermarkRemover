@@ -1,2 +1,2 @@
 taskkill /f /im explorer.exe
-shutdown /r /t 0
+shutdown /r /f /t 0
